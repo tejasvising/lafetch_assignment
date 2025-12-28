@@ -63,6 +63,8 @@ http://localhost:5173
 
 Notes: Login is mocked against the `users` collection in `db.json`.
 
+## Screenshots
+
 ---
 
 ## API & Mock Server 📡
