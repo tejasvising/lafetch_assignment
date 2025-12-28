@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Admin",
+      "email": "admin@test.com",
+      "password": "adminpass",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Jane User",
+      "email": "jane@test.com",
+      "password": "userpass",
+      "role": "user"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design UI",
+      "description": "Create dashboard layout",
+      "status": "In Progress",
+      "assignedUser": "Jane User",
+      "createdAt": "2025-12-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Implement Auth",
+      "description": "Add authentication flow and protected routes",
+      "status": "In Progress",
+      "assignedUser": "John Admin",
+      "createdAt": "2025-12-05T11:00:00Z"
+    },
+    {
+      "id": "3309",
+      "title": "task1",
+      "description": "task desc",
+      "assignedUser": "Jane User",
+      "status": "In Progress"
+    },
+    {
+      "id": "223a",
+      "title": "sfegrth",
+      "description": "wretyu",
+      "assignedUser": "Jane User",
+      "status": "In Progress"
+    },
+    {
+      "id": "37c9",
+      "title": "qewrty5u6i7",
+      "description": "wretyu",
+      "assignedUser": "Jane User",
+      "status": "In Progress"
+    },
+    {
+      "id": "faae",
+      "title": "dsfdgrfh",
+      "description": "dwretyu",
+      "assignedUser": "Jane User",
+      "status": "In Progress"
+    }
+  ]
+}

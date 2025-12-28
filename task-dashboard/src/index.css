@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ✅ Custom classes MUST be inside a layer */
+@layer components {
+  .input {
+    @apply border p-2 w-full mb-3 rounded;
+  }
+
+  .btn {
+    @apply bg-blue-600 text-white p-2 w-full rounded hover:bg-blue-700;
+  }
+
+  .badge {
+    @apply px-2 py-1 rounded text-white text-sm;
+  }
+}
