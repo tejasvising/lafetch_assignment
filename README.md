@@ -63,10 +63,20 @@ http://localhost:5173
 
 Notes: Login is mocked against the `users` collection in `db.json`.
 
-## Screenshots
+
 
 ---
 
 ## API & Mock Server 📡
 
 The app expects a JSON Server running at `http://localhost:3000`.
+
+
+---
+
+## Screenshots
+
+![System Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/createtaskpage.png)
+![Report Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/loginpage.png)
+![Report Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/taskdetailspage.png)
+![Report Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/taskspage.png)
