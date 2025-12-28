@@ -75,8 +75,14 @@ The app expects a JSON Server running at `http://localhost:3000`.
 ---
 
 ## Screenshots
-
+- Create Tasks
 ![System Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/createtaskpage.png)
+
+- Login Page
 ![Report Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/loginpage.png)
+
+- Task Details Modal
 ![Report Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/taskdetailspage.png)
+
+- Shows lists of tasks
 ![Report Overview](https://raw.githubusercontent.com/tejasvising/lafetch_assignment/master/taskspage.png)
